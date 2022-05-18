@@ -7,9 +7,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 
@@ -25,28 +22,6 @@ This is my first Frontend Mentor project. A simple card component which contain 
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-qrcode-using-html-and-css-X6eD52VOy](https://www.frontendmentor.io/solutions/responsive-qrcode-using-html-and-css-X6eD52VOy)
 - Live Site URL: [https://siddhinandaniya.github.io/QR-Code/](https://siddhinandaniya.github.io/QR-Code/)
-
-## My process
-
-- First developed html body structure
-- Started building with mobile first approach
-- Used Sass to create css file
-- Used flexbox for alignment
-
-
-### Built with
-
-- Semantic HTML5 markup
-- Sass Preprocessor
-- CSS
-- Flexbox
-- Mobile-first workflow
-
-
-### Continued development
-
-During this project i found flexbox really useful. i was looking for a way to position the card at the center of webpage. And finally flexbox seemed to be the best approach.
-
 
 ## Author
 

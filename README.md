@@ -20,8 +20,8 @@ This is my first Frontend Mentor project. A simple card component which contain 
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qrcode-using-html-and-css-X6eD52VOy](https://www.frontendmentor.io/solutions/responsive-qrcode-using-html-and-css-X6eD52VOy)
-- Live Site URL: [https://siddhinandaniya.github.io/QR-Code/](https://siddhinandaniya.github.io/QR-Code/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-oF4PXBRht2](https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-oF4PXBRht2)
+- Live Site URL: [https://siddhinandaniya.github.io/3-column-preview-card-component/](https://siddhinandaniya.github.io/3-column-preview-card-component/)
 
 ## Author
 
